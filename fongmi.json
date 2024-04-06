@@ -4,7 +4,7 @@
 
 "lives":[{"name":"fanmingming•IPV6","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YanG•IPV6综合","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"饭太硬•综合","type":0,"url":"https://raw.gitmirror.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"饭太硬•综合","type":0,"url":"https://raw.kkgithub.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"iptv-org•综合","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Bili","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/LiveRedirect/main/m3u/bilibili.m3u","playerType":1},
@@ -48,8 +48,8 @@
 {"key":"drpy_js_网易公版影像","name":"聚合┃网易公版[js]","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"changeable":0,"ext":"./js/网易公版影像.js"},
 {"key":"drpy_js_酷狗MV","name":"MV┃酷狗[js]","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"changeable":0,"ext":"./js/酷狗MV.js"},
 {"key":"drpy_js_酷奇MV","name":"MV┃酷奇[js]","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"changeable":0,"ext":"./js/酷奇MV.js"},
-{"key":"bb","name":"配置接口完全免费","type":3,"api":"./lib/drpy2.min.js","ext":"https://raw.gitmirror.com/sli1989/box/master/js/drpy.js"},
-{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"./lib/drpy2.min.js","ext":"https://raw.gitmirror.com/sli1989/box/master/js/drpy.js"}
+{"key":"bb","name":"配置接口完全免费","type":3,"api":"./lib/drpy2.min.js","ext":"https://raw.kkgithub.com/sli1989/box/master/js/drpy.js"},
+{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"./lib/drpy2.min.js","ext":"https://raw.kkgithub.com/sli1989/box/master/js/drpy.js"}
 ],
 
 "parses":[

@@ -19,10 +19,6 @@
 {"key":"csp_xuexi","name":"哔哩┃学习园地","type":"3","api":"csp_Bili","searchable":"1","quickSearch":"1","style":{"type":"rect","ratio":1.597},"filterable":"1","changeable":0,"ext":"./json/xuexi.json"},
 {"key":"csp_Aid","name":"急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
 
-{"key":"88js","name":"88┃看球","type":3,"api":"https://raw.kkgithub.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/gaotianliuyun/gao/master/js/88看球.js","style":{"type":"list"},"searchable": 1,"quickSearch": 1,"changeable":0},
-{"key":"Jrsjs","name":" Jrs┃球迷","type": 3,"api":"https://raw.kkgithub.com/gaotianliuyun/gao/master/llib/drpy2.min.js","ext":"https://raw.kkgithub.com/gaotianliuyun/gao/master/js/jrk.js","style":{"type":"list"},"searchable": 1,"quickSearch": 1,"changeable":0},
-{"key":"企鹅体育xp","name":"鹅鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"list"},"searchable":1,"quickSearch":1,"changeable":0,"ext":"https://raw.kkgithub.com/gaotianliuyun/gao/master/json/企鹅直播.json"},
-
 {"key":"alllive","name":"一直播┃直播","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"米搜","name":"米盘┃搜搜","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"抠搜","name":"抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
@@ -49,10 +45,11 @@
 {"key":"csp_Ysj","name":"异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"drpy_js_哔哩直播","name":"弹幕┃哔哩直播[js]","type":3,"api":"https://raw.kkgithub.com/gaotianliuyun/gao/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://raw.kkgithub.com/gaotianliuyun/gao/master/js/哔哩直播.js"},
-{"key":"drpy_js_JustLive","name":"直播┃JustLive[js]","type":3,"api":"https://raw.kkgithub.com/gaotianliuyun/gao/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://raw.kkgithub.com/gaotianliuyun/gao/master/js/JustLive.js"},
-{"key":"drpy_js_斗鱼直播","name":"直播┃斗鱼[js]","type":3,"api":"https://raw.kkgithub.com/gaotianliuyun/gao/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://raw.kkgithub.com/gaotianliuyun/gao/master/js/斗鱼直播.js"},
-{"key":"drpy_js_虎牙直播","name":"直播┃虎牙[js]","type":3,"api":"https://raw.kkgithub.com/gaotianliuyun/gao/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://raw.kkgithub.com/gaotianliuyun/gao/master/js/虎牙直播.js"},
+{"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/虎牙直播.js"},
+{"key":"斗鱼直播","name":"🐟斗鱼直播","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/斗鱼直播.js"},
+{"key":"有声小说吧","name":"有声小说吧","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/有声小说吧.js"},
+{"key":"JRKAN直播","name":"JRKAN直播","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
+{"key":"88看球","name":"⚽88看球","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"},
 
 {"key":"drpy_js_网易公版影像","name":"聚合┃网易公版[js]","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"changeable":0,"ext":"./js/网易公版影像.js"},
 {"key":"drpy_js_酷狗MV","name":"MV┃酷狗[js]","type":3,"api":"./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"changeable":0,"ext":"./js/酷狗MV.js"},

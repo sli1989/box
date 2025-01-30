@@ -2,7 +2,7 @@
 "spider":"https://raw.kkgithub.com/gaotianliuyun/gao/master/jar/fan.txt;md5;6c4ab3a9d232164c75534f9060506ee5",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
-"lives":[{"name":"allinone","type":0,"url":"https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+"lives":[{"name":"Guovin•iptv-api","type":0,"url":"https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"allinone","type":0,"url":"https://live.fugebull.com/tv.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"doube-itv","type":0,"url":"http://iptv.shabb.cn/Sub?type=m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"fanmingming•IPV6","type":0,"url":"https://raw.kkgithub.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
